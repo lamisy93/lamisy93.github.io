@@ -1,0 +1,104 @@
+@media screen and (max-width: 625px){
+/* propriétés pour mobile */
+
+h1{
+left: 50%;
+font-size: 34px;
+}
+
+.titre{
+left: 50%;
+font-size: 26px;
+margin-top: 40px;
+}
+
+h3{
+  left: 40%;
+}
+
+.img{
+margin-top: 130%;
+margin-left: 25%;
+}
+
+.barre,.barre2,.barre3,.barre4,.barre5{
+display: none;
+}
+
+.contact {
+  right: 30px;
+  top: 580px;
+  font-size: 18px;
+}
+
+ .experiences{
+   right: 30px;
+   top: 800px;
+   font-size: 18px;
+ }
+
+.formation{
+  right: 30px;
+  top: 1200px;
+  font-size: 18px;
+}
+
+.atouts{
+  right: 30px;
+  top: 1600px;
+  font-size: 18px;
+}
+
+.cont{
+  right: 30px;
+  top: 650px;
+  margin-left: 80px;
+  text-align: justify;
+}
+
+.exp{
+   top: 950px;
+   text-align: center;
+   margin-left: 80px;
+   text-align: justify;
+}
+
+.form{
+top: 1350px;
+text-align: center;
+margin-left: 80px;
+text-align: justify;
+}
+
+.atou{
+  top: 1700px;
+  text-align: justify;
+  margin-left: 80px;
+  margin-bottom: 30px;
+}
+
+.icon1{
+top: 1200px;
+left: 130px;
+}
+.icon2{
+top: 810px;
+right: 56%;
+  }
+.icon3{
+top: 1600px;
+margin-right: 10%;
+}
+
+.icon4{
+  top: 90px;
+  display: inline;
+  right: 52%;
+}
+
+}
+@media screen and (max-width: 976px){
+{
+/* propriétés pour tablette */
+}
+}
