@@ -42,21 +42,21 @@ opacity: 0.2;
 
 h1{
 color: white;
-font-size: 50px;
+font-size: 46px;
 margin-top: 0%;
 position: absolute;
 left: 550px;
-  font-weight: 300;
-
-
+font-weight: 300;
 }
+
 .titre{
 color: #4EA5AD;
 font-size: 30px;
 margin-top: 55px;
 position: absolute;
-left: 560px;
-  font-weight: 300;
+left: 556px;
+font-weight: 300;
+text-shadow: 0 0 0.2em;
 }
 
 h3{
@@ -128,7 +128,7 @@ text-align: center;
 
 .exp{
   position: absolute;
-  right: 100px;
+  right: 50px;
   top: 300px;
   text-align: center;
   color: white;
@@ -148,6 +148,7 @@ text-align: center;
   right: 100px;
   top: 550px;
   color: white;
+  text-align: center;
 }
 
 
@@ -162,7 +163,7 @@ text-align: center;
 
 .atou{
   position: absolute;
-  right: 100px;
+  right: 60px;
   top: 780px;
   color: white;
 }
